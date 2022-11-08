@@ -15,7 +15,8 @@ always circular in the image because stereographic projection was used. In the
 JavaScript Viewer the outlines of these structures are completed to circles. It
 may be helpful to toggle these plots on a off by pressing the '2' key in order
 to improve the visibility. 
-[CF](http://www.simg.de/nebulae3/mon-gem.html#f1) is a large HII region which
+
+[F1](http://www.simg.de/nebulae3/mon-gem.html#f1) is a large HII region which
 contains the Seagull Nebula (at least the body) and various other emission
 Nebula, at least SH2-295 to SH2-297. That region is ionized by the CMa OB1
 association and it lies in a distance of about 1000pc (=3261 light years).
