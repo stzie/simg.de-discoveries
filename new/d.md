@@ -15,7 +15,7 @@ Objects that are not cataloged by now and objects the are related to them.
 	DA1       | 18 17 51.7 | -14 29 38 |  16.2410 |  +0.6685 | 58.01 |       |       | Possible HII ring/bubble
 	D1        | 17 43 37.6 |  -7 09 10 |  18.5856 | +11.5783 | 251.5 |       |       | faint HII region
 	HD 161056 | 17 43 47.0 |  -7 04 47 |  18.6702 | +11.5808 |       |       |       | possible ionization source of D1. Distance according to Gaia EDR3: about 410pc.
-	D2        | 18 24 06.0 |  -3 16 51 |  26.8793 |  +4.5680 | 32.56 |       |       | HII region
+	## D2     | 18 24 06.0 |  -3 16 51 |  26.8793 |  +4.5680 | 32.56 |       |       | identified as Planetary Nebula "FP J1824-0319"
 	D3        | 18 37 44.4 |  -1 45 30 |  29.8034 |  +2.2436 | 19.21 | 10.07 |    96 | HII region
 	D4        | 18 37 57.4 |  -0 23 21 |  31.0471 |  +2.8213 | 22.42 |       |       | HII region
 	HD 172028 | 18 37 56.6 |  -0 23 09 |  31.0485 |  +2.8258 |       |       |       | Possible ionization source of D4. Distance according to Gaia EDR3: about 400pc.
@@ -24,4 +24,4 @@ Objects that are not cataloged by now and objects the are related to them.
 	D7        | 18 59 43.8 | -10 49 22 |  24.1913 |  -6.7330 | 18.33 |       |       | HII region
 	D8        | 18 32 02.9 |  -6 07 08 |  25.2759 |  +1.4997 | 52.03 |       |       | HII region
 	D9        | 18 11 19.0 | -11 07 58 |  18.4379 |  +3.6724 | 70.05 |       |       | HII region
-	D10       | 17 51 12.2 | -14 00 36 |  13.5071 |  +6.5435 | 296.7 | 205.6 |    91 | HII region
+	D10       | 17 52 19.6 | -13 07 37 |  14.4143 |  +6.7491 | 184.5 | 75.87 |    90 | HII region
