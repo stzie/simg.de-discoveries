@@ -13,14 +13,14 @@ JavaScript Viewer the outlines of these structures (all but AA4) are completed
 to circles. It may be helpful to toggle these plots on a off by pressing the '2'
 key in order to improve the visibility. 
 
-    #      |            |           |          |          | Major | Minor |       | 
-    # Name |         RA |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Comment
-    #      |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | 
-    # -----+------------+-----------+----------+----------+-------+-------+-------+----------
-    AA1    |  5 14 19.7 | +10 30 30 | 191.7873 | -16.0588 | 813.4 |       |       | HII ring/bubble. North-western part (into direction of Taurus) is obscured by (i.e. lies behind) molecular clouds.
-    AA2    |  5 52 54.1 | +15 21 28 | 192.5421 |  -5.5120 | 424.8 |       |       | Possible HII ring/bubble
-    AA3    |  5 30 45.8 | +17 49 14 | 187.6520 |  -8.7766 | 508.0 |       |       | Possible HII arc or ring. May also a structure on the shell of A4.
-    AA4    |  5 36 03.6 | +16 57 12 | 189.0724 |  -8.1646 | 157.2 | 60.80 |    55 | Possible HII arc or ring
+	#      |            |           |          |          | Major | Minor |       | 
+	# Name |         RA |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Comment
+	#      |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | 
+	# -----+------------+-----------+----------+----------+-------+-------+-------+----------
+	AA1    |  5 14 19.7 | +10 30 30 | 191.7873 | -16.0588 | 813.4 |       |       | HII ring/bubble. North-western part (into direction of Taurus) is obscured by (i.e. lies behind) molecular clouds.
+	AA2    |  5 52 54.1 | +15 21 28 | 192.5421 |  -5.5120 | 424.8 |       |       | Possible HII ring/bubble
+	AA3    |  5 30 45.8 | +17 49 14 | 187.6520 |  -8.7766 | 508.0 |       |       | Possible HII arc or ring. May also a structure on the shell of A4.
+	AA4    |  5 36 03.6 | +16 57 12 | 189.0724 |  -8.1646 | 157.2 | 60.80 |    55 | Possible HII arc or ring
     
 
 
