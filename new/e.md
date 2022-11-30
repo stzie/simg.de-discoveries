@@ -18,7 +18,7 @@ Objects that are not cataloged by now and objects the are related to them.
 	E2        | 19 54 37.8 | +18 20 11 |  56.4677 |  -4.9647 | 268.5 |       |       | Large HII region with filaments and ring structure
 	E3        | 19 30 42.1 | +16 49 32 |  52.3254 |  -0.7590 | 40.81 |       |       | HII region
 	E4        | 19 21 50.7 | +15 01 40 |  49.7314 |  +0.2591 | 51.87 |       |       | HII region
-	E5        | 19 45 03.2 | +24 22 03 |  60.5443 |  +0.0115 | 254.8 |       |       | Large HII region that contains SH2-86 to SH2-88 and DU 26 to DU 30. Ionized by the VUL OB1 association.
+	E5        | 19 46 13.5 | +24 34 48 |  60.8615 |  -0.1125 | 290.0 |       |       | Large HII region that contains SH2-86 to SH2-88 and DU 26 to DU 30. Ionized by the VUL OB1 association.
 	VUL OB1   | 19 44 00.0 | +24 13 12 |  60.2964 |  +0.1457 |       |       |       | Center of the VUL OB1 association according to SIMBAD
 	NGC 6823  | 19 43 10.6 | +23 19 16 |  59.4230 |  -0.1387 | 3.580 | 3.580 |    90 | Star cluster which belongs to VUL OB1 association. Mean distance of the stars according to Gaia ER3: 2300 pc
 
