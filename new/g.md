@@ -6,8 +6,8 @@ FOV: 32.0° × 26.0°
 Viewer: [G1-G8, E5 in H-alpha and Continuum](http://www.simg.de/nebulae3/cyg-05-hbr.vhtml?nav=0&tbl=1&uo=~3%22E5%22%2C296.5561%2C24.5799%2C290.000%2C%22Large%20HII%20region%20that%20contains%20SH2-86%20to%20SH2-88%20and%20DU%2026%20to%20DU%2030.%20Ionized%20by%20the%20VUL%20OB1%20association.%22~4%2C~3%22G1%22%2C296.6851%2C26.8387%2C5.950%2C%22HII%20region%22~4%2C~3%22G2%22%2C297.5756%2C27.4721%2C8.751%2C3.891%2C32%2C%22HII%20region%22~4%2C~3%22G3%22%2C299.3384%2C26.6525%2C2.550%2C%22HII%20region%22~4%2C~3%22G4%22%2C300.9521%2C26.2489%2C27.952%2C18.779%2C78%2C%22Faint%20HII%20region%22~4%2C~3%22G5%22%2C299.0540%2C29.4921%2C34.266%2C%22Faint%20HII%20region%22~4%2C~3%22G6%22%2C323.2483%2C27.0722%2C236.048%2C99.444%2C43%2C%22Reflection%20Nebula%22~4%2C~3%22G7%22%2C315.3975%2C26.3463%2C188.610%2C%22Reflection%20Nebula%22~4%2C~3%22G8%22%2C315.6804%2C30.1578%2C44.413%2C%22Reflection%20Nebula%22~4)  
 Viewer: [G1-G5, E5 in H-alpha](http://www.simg.de/nebulae3/cyg-05-h.vhtml?nav=0&tbl=1&uo=~3%22E5%22%2C296.5561%2C24.5799%2C290.000%2C%22Large%20HII%20region%20that%20contains%20SH2-86%20to%20SH2-88%20and%20DU%2026%20to%20DU%2030.%20Ionized%20by%20the%20VUL%20OB1%20association.%22~4%2C~3%22G1%22%2C296.6851%2C26.8387%2C5.950%2C%22HII%20region%22~4%2C~3%22G2%22%2C297.5756%2C27.4721%2C8.751%2C3.891%2C32%2C%22HII%20region%22~4%2C~3%22G3%22%2C299.3384%2C26.6525%2C2.550%2C%22HII%20region%22~4%2C~3%22G4%22%2C300.9521%2C26.2489%2C27.952%2C18.779%2C78%2C%22Faint%20HII%20region%22~4%2C~3%22G5%22%2C299.0540%2C29.4921%2C34.266%2C%22Faint%20HII%20region%22~4)  
 
-Objects that are not cataloged by now and objects the are related to them. The
-list does not contain objects that are only minor extensions of known structures.
+Objects that are not cataloged by now. The list does not contain objects that
+are only minor extensions of known structures.
 
 	#      |            |           |          |          | Major | Minor |       | 
 	# Name |         RA |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Comment
