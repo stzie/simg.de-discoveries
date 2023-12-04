@@ -22,9 +22,9 @@ diameter is about 35° x 24°.
 	#      |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | 
 	# -----+------------+-----------+----------+----------+-------+-------+-------+----------
 	H1     |  3 44 05.3 | +35 58 56 | 157.8811 | -14.9160 |  2137 |  1464 |   131 | Huge HII region that lie behind molecular cloud in Taurus and Perseus (because it is obscured by them.
-	H2     |  3 26 46.9 | +45 16 12 | 149.5077 |  -9.4356 | 40.63 |       |       | 
+	H2     |  3 26 46.9 | +45 16 12 | 149.5077 |  -9.4356 | 40.63 |       |       | HII region. May be belong to the planetary nebula "PN HDW 3"
 	H3     |  3 21 33.3 | +46 03 11 | 148.2967 |  -9.2951 | 42.11 |       |       | HII region
 	H4     |  4 26 16.8 | +48 23 01 | 155.2992 |  -0.5123 | 7.669 | 4.933 |   164 | HII region
-	H5     |  4 28 36.1 | +48 34 26 | 155.4291 |  -0.1033 | 38.95 |       |       | HII region.
+	H5     |  4 28 36.1 | +48 34 26 | 155.4291 |  -0.1033 | 38.95 |       |       | HII region partly obfuscated by dark nebulae. Brightest regions are known as LBN 855 and BFS 44.
 	H6     |  4 51 41.0 | +45 51 08 | 160.0649 |  +1.0211 | 48.12 |       |       | HII region
 	H7     |  3 15 13.3 | +48 01 38 | 146.3012 |  -8.2131 | 57.20 | 36.16 |   125 | HII region
