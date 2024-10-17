@@ -39,6 +39,6 @@ of the image. It may be helpful to toggle plots on and off by pressing the '2'.
 	# ------+------------+-----------+----------+----------+-------+-------+-------+----------
 	zet Cas |  0 36 58.3 | +53 53 49 | 120.7758 |  -8.9143 |       |       |       | A close star in a distance of about 180 pc +/- 10 pc (Hipparcos measurements)
 	IA5     |  0 31 59.2 | +56 06 19 | 120.2039 |  -6.6633 | 333.5 |       |       | Possible HII ring/bubble
-	I34     |  0 36 32.3 | +54 04 03 | 120.7214 |  -8.7403 | 106.8 | 59.37 |    83 | HII arc ionized by Zeta Cassiopeiae
+	IA6     |  0 36 32.3 | +54 04 03 | 120.7214 |  -8.7403 | 106.8 | 59.37 |    83 | HII arc ionized by Zeta Cassiopeiae
 
 

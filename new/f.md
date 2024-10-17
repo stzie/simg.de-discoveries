@@ -37,7 +37,7 @@ association and it lies in a distance of about 1000pc (=3261 light years).
 	F9     |  7 11 40.8 | +18 36 46 | 198.3292 | +12.7051 | 519.4 | 169.2 |   158 | HII filament that seem not belong to a known structure, partially obscured by LBN 891 and F10
 	F10    |  7 17 14.1 | +18 48 15 | 198.7107 | +13.9816 | 143.5 | 117.9 |   154 | Reflection nebula
 	F11    |  7 19 02.7 |  +3 54 39 | 212.5831 |  +7.9205 | 177.2 | 114.4 |    90 | Reflection nebula
-	FA1    |  6 35 23.9 | +21 30 32 | 191.9472 |  +6.2739 | 548.4 |       |       | Possible HII ring/bubble
+	FA1    |  6 32 02.9 | +21 46 30 | 191.3548 |  +5.6996 | 618.7 |       |       | Possible HII ring/bubble
 	FA2    |  6 53 54.5 | +11 39 44 | 202.7951 |  +5.8295 |  1012 |       |       | Possible HII ring/bubble
 	FA3    |  6 59 43.3 |  -2 27 55 | 216.0705 |  +0.7174 | 653.9 |       |       | Possible HII ring/bubble
 	FA4    |  6 09 03.5 | +10 07 23 | 199.0603 |  -4.6428 | 430.4 |       |       | Possible HII ring/bubble
