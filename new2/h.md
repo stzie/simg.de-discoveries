@@ -1,0 +1,67 @@
+# Uncataloged objects that are bright in H-alpha
+
+Objects in this list were detected in H-alpha images and can be considered as HII regions.
+This does not necessarily mean that other emission lines are faint.
+
+Visit <http://www.simg.de/catalog/h.html> for a version of this table with links
+to images and <http://www.simg.de/catalog> for a general description of this
+catalog.
+
+    #                  |            |           |          |          | Major | Minor |       |      |
+    # Name             |         RA |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Old  |  Publicat- | Comment
+    #                  |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | name |   ion date |
+    # -----------------+------------+-----------+----------+----------+-------+-------+-------+------+------------+---------
+    H024.2             | 18 59 43.8 | -10 49 22 |  24.1913 |  -6.7330 | 18.33 |       |       | D7   | 2022-10-22 | 
+    H029.3             | 18 43 07.8 |  -3 01 15 |  29.2967 |  +0.4685 | 67.93 |       |       | D5   | 2022-10-22 | HII filament
+    H029.8             | 18 37 44.4 |  -1 45 30 |  29.8034 |  +2.2436 | 19.21 | 10.07 |    96 | D3   | 2022-10-22 | 
+    H048.6             | 19 46 08.0 | +10 30 01 |  48.6116 |  -7.1096 | 27.43 |       |       | E6   | 2023-11-23 | 
+    H062.9             | 19 46 44.4 | +26 50 19 |  62.8727 |  +0.9224 | 5.950 |       |       | G1   | 2022-11-30 | 
+    H063.8             | 19 50 18.1 | +27 28 20 |  63.8200 |  +0.5594 | 8.751 | 3.891 |    32 | G2   | 2022-11-30 | 
+    H066.0             | 22 25 12.3 |  +1 23 27 |  66.0037 | -44.7170 | 299.9 | 215.1 |   154 |      | 2024-10-21 | Probably already known
+    (pi. Aqr)          | 22 25 16.6 |  +1 22 39 |  66.0068 | -44.7395 |       |       |       |      |            | Possible ionization source. Distance according to Gaia EDR3: about 0.34pc.
+    H100.7             | 22 06 04.6 | +55 04 26 | 100.7109 |  -0.4985 | 12.57 |       |       | I5   | 2023-02-05 | 
+    H106.2             | 22 55 19.1 | +53 51 18 | 106.2289 |  -5.2081 | 4.131 |       |       | I28  | 2023-02-05 | Small HII region
+    H107.9             | 22 55 44.7 | +57 35 45 | 107.9027 |  -1.8604 | 13.46 |       |       | I4   | 2023-02-05 | 
+    (BD+56 2903)       | 22 55 45.8 | +57 36 07 | 107.9075 |  -1.8559 |       |       |       |      |            | Probably the ionization source of H107.9. Distance according to Gaia EDR3: about 2500 pc.
+    H110.3             | 23 32 21.3 | +50 33 56 | 110.3157 | -10.3589 | 9.847 |       |       | I7   | 2023-02-05 | Faint HII region
+    H112.0             | 23 40 51.4 | +51 55 17 | 112.0072 |  -9.4470 | 14.15 | 5.528 |   138 | I19  | 2023-02-05 | Faint HII region
+    H116.2             | 23 57 44.1 | +59 43 17 | 116.2027 |  -2.4470 | 16.88 |       |       | I2   | 2023-02-05 | Partially obscured by LDN 1257 and LDN 1258.
+    (BD +58 2676)      | 23 57 47.7 | +59 43 12 | 116.2099 |  -2.4497 |       |       |       |      |            | Probably the ionization source of H116.2. Distance according to Gaia EDR3: about 2900 pc.
+    H117.7             |  0 13 54.5 | +56 19 15 | 117.7148 |  -6.1703 | 28.13 | 20.20 |    79 | I10  | 2023-02-05 | 
+    H119.1             |  0 20 30.1 | +60 17 55 | 119.1054 |  -2.3430 | 18.82 |       |       | I3   | 2023-02-05 | 
+    (HD 236382)        |  0 20 30.1 | +60 17 08 | 119.1038 |  -2.3561 |       |       |       |      |            | Probably the ionization source of H119.1. Distance according to Gaia EDR3: about 1400 pc.
+    H146.3             |  3 15 13.3 | +48 01 38 | 146.3012 |  -8.2131 | 57.20 | 36.16 |   125 | H7   | 2022-12-01 | 
+    H149.5             |  3 26 46.9 | +45 16 12 | 149.5077 |  -9.4356 | 40.63 |       |       | H2   | 2022-12-01 | Propably does not belong to much smaller PN HDW 3 which lies near the boundary.
+    H155.4             |  4 28 36.1 | +48 34 26 | 155.4291 |  -0.1033 | 38.95 |       |       | H5   | 2022-12-01 | 
+    H125.0             |  1 10 14.9 | +63 41 31 | 125.0144 |  +0.8963 | 8.957 |       |       | I15  | 2023-02-05 | 
+    H125.1             |  1 11 29.4 | +64 27 39 | 125.0919 |  +1.6732 | 11.34 |       |       | I12  | 2023-02-05 | 
+    H125.5             |  1 16 07.0 | +64 52 29 | 125.5492 |  +2.1285 | 2.417 |       |       | I14  | 2023-02-05 | Small HII region.
+    H139.2             |  2 51 07.7 | +55 56 59 | 139.1750 |  -3.1009 | 50.80 |       |       | J5   | 2023-12-04 | Probably overseen due to bright star eta Per.
+    (LS I +55 39)      |  2 50 33.7 | +55 53 44 | 139.1279 |  -3.1845 |       |       |       |      |            | Possible ionization source of H35. Distance according to Gaia DR3: about 3400 pc.
+    (LS I +55 40)      |  2 50 35.1 | +56 04 48 | 139.0491 |  -3.0178 |       |       |       |      |            | Possible ionization source of H35. No distance measurement.
+    H140.1             |  3 23 54.3 | +61 31 54 | 140.0833 |  +3.8464 | 14.64 |       |       | J13  | 2023-12-04 | 
+    (HD 20798)         |  3 24 14.2 | +61 32 19 | 140.1126 |  +3.8738 |       |       |       |      |            | Possible ionization source of H140.1. Distance according to Gaia DR3: 
+    H148.5             |  4 08 36.2 | +55 16 02 | 148.5462 |  +2.5230 | 74.55 |       |       | J6   | 2023-12-04 | HII region, mostly hidden behind dark nebula.
+    H151.2             |  5 00 37.9 | +58 13 04 | 151.1733 |  +9.7708 | 1.990 |       |       | J3   | 2023-12-04 | Tiny HII region
+    H154.6             |  4 27 55.7 | +49 40 20 | 154.5600 |  +0.5773 | 8.640 |       |       | J1   | 2023-12-04 | 
+    (EM GGA 291)       |  4 28 00.1 | +49 39 26 | 154.5790 |  +0.5755 |       |       |       |      |            | Possible ionization source of H154.6. Distance according to Gaia DR3: about 2900 pc
+    H154.7             |  4 34 16.6 | +50 28 50 | 154.6690 |  +1.8730 | 81.84 |       |       | J7   | 2023-12-04 | Mostly hidden behind dark nebula.
+    H162.3             |  4 45 11.3 | +41 56 51 | 162.2988 |  -2.3885 | 16.56 |       |       | C6   | 2022-10-19 | 
+    H164.1             |  5 03 15.8 | +42 22 20 | 164.0815 |  +0.4789 | 17.79 |       |       | C5   | 2022-10-19 | 
+    H165.6             |  4 59 36.8 | +39 54 13 | 165.6090 |  -1.5786 | 20.81 |       |       | C4   | 2022-10-19 | 
+    H168.8             |  5 08 41.7 | +37 12 55 | 168.8239 |  -1.8003 | 68.64 | 38.97 |    70 | C3   | 2022-10-19 | 
+    H174.6             |  5 44 55.5 | +35 08 20 | 174.6262 |  +3.1058 | 40.00 |       |       | C1   | 2022-10-19 | 
+    (HD 38131=         |  5 45 05.5 | +35 09 47 | 174.6231 |  +3.1475 |       |       |       |      |            | Possible ionization source of H174.6. Distance according to Gaia EDR3: 1700 pc.
+    H176.0             |  4 21 50.4 | +19 46 28 | 176.0113 | -20.7570 | 11.54 |       |       | C7   | 2022-10-19 | 
+    H177.6             |  5 52 30.0 | +32 38 29 | 177.5808 |  +3.1725 | 8.359 |       |       | C2   | 2022-10-19 | Small HII region near M37
+    H192.4             |  6 01 05.4 | +16 39 46 | 192.3884 |  -3.1559 | 16.85 |       |       | A6   | 2022-10-12 | HII region which may be ionized by UCAC4 534-022196, an O-star in the distance of about 7500 pc, on the outer edge of the Milky Way.
+    (UCAC4 534-022196) |  6 00 58.8 | +16 40 07 | 192.3702 |  -3.1760 |       |       |       |      |            | Possible ionization source of H192.4. Distance according to Gaia EDR3: about 7500 pc.
+    H194.5             |  6 00 11.1 | +14 09 04 | 194.4711 |  -4.5833 | 9.180 |       |       | A5   | 2022-10-12 | 
+    (BD+14 1106)       |  6 00 13.3 | +14 08 23 | 194.4856 |  -4.5813 |       |       |       |      |            | Possible ionization source of H194.5. Distance according to Gaia EDR3: about 1800 pc.
+    H195.6             |  6 08 20.4 | +13 57 55 | 195.6004 |  -2.9470 | 54.65 |       |       | A3   | 2022-10-12 | HII region which seems to be ionized by NGC 2169, a cluster with B-stars in a distance of about 1000 pc (Gaia EDR3).
+    (NGC 2169)         |  6 08 24.5 | +13 57 50 | 195.6095 |  -2.9336 | 6.647 |       |       |      |            | Possible ionization source of H195.6.
+    H197.6             |  6 57 23.9 | +17 51 15 | 197.5605 |  +9.3132 | 56.09 |       |       | F2   | 2022-11-09 | 
+    (HD 51354)         |  6 57 42.9 | +17 54 07 | 197.5499 |  +9.4018 |       |       |       |      |            | Possible ionization source of H197.6
+    H213.6             |  6 04 17.2 |  -6 43 03 | 213.6151 | -13.5272 | 40.82 |       |       | A8   | 2022-10-12 | HII region which may be ionized by B1-star HD 41335.
+    (HD 41335)         |  6 04 13.5 |  -6 42 32 | 213.6003 | -13.5369 |       |       |       |      |            | Possible ionization source of H213.6. Distance according to Gaia EDR3: 500pc.
+                                                                               

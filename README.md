@@ -1,31 +1,31 @@
-# Discoveries at [www.simg.de](http://www.simg.de)
+# Discoveries at <http://www.simg.de>
 
 This repository contains astronomical discoveries made using the images at
-[www.simg.de](http://www.simg.de).
+<http://www.simg.de>.
 
 These images can be viewed using a JavaScript viewer with extensive analytical
-features, like:
+features, such as:
 
-  * Measurements (e.g. position, angular distance and diameter, position angle)
+  * Measurements (e.g., position, angular distance, diameter, and position angle)
   * Different [SIMBAD](http://simbad.u-strasbg.fr/simbad/) queries 
   * plotting catalog objects
-  * User defined objects
+  * User-defined objects
 
+## Structure
 
-## Structure an naming
+There are two catalogs of previously uncatalogued objects. 
 
-Currently there is not much structure in this repository because it only
-contains some objects that cannot be found in catalogs. These objects got a name
-which consists in one or two letters and a number. The letters depend from the
-image or view in which the object was found first, e.g. "A" stands for objects
-found in the image "Orion region". A second letter "A" denotes possible rings or
-arcs, e.g. "AA" for rings or arcs in the "Orion region".
+The old version in the directory `new` of this repository is ordered by the
+images in which the objects were found. These lists are deprecated and no longer
+maintained.
 
-Discoveries are described in the files in directory `new` in form of Markdown
-documents.
-
+New lists with an improved structure and clarified rules set are presented at 
+<http://www.simg.de/catalog> and can be found in directory `../new2` of this
+repository.
 
 ## Is something missing?
 
-Feel free to add (per pull request) new objects, corrections to discovered
-objects and/or catalog objects.
+Feel free to add new objects, corrections to discovered objects, and/or catalog
+objects via a pull request.
+
+
