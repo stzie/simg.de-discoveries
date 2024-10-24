@@ -19,7 +19,7 @@ catalog.
     H062.9             | 19 46 44.4 | +26 50 19 |  62.8727 |  +0.9224 | 5.950 |       |       | G1   | 2022-11-30 | 
     H063.8             | 19 50 18.1 | +27 28 20 |  63.8200 |  +0.5594 | 8.751 | 3.891 |    32 | G2   | 2022-11-30 | 
     H066.0             | 22 25 12.3 |  +1 23 27 |  66.0037 | -44.7170 | 299.9 | 215.1 |   154 |      | 2024-10-21 | Probably already known
-    (pi. Aqr)          | 22 25 16.6 |  +1 22 39 |  66.0068 | -44.7395 |       |       |       |      |            | Possible ionization source. Distance according to Gaia EDR3: about 0.34pc.
+    (pi. Aqr)          | 22 25 16.6 |  +1 22 39 |  66.0068 | -44.7395 |       |       |       |      |            | Possible ionization source. Distance according to Gaia EDR3: about 340 pc.
     H079.9             | 22 24 15.1 | +17 11 45 |  79.8537 | -33.0937 | 32.48 | 23.19 |   103 |      | 2024-10-24 | Faint HII region with a 180° arc.
     H083.1             | 22 19 51.5 | +22 58 56 |  83.1350 | -27.9395 | 259.3 | 111.7 |    51 |      | 2024-10-24 | Incomplete arc
     H100.7             | 22 06 04.6 | +55 04 26 | 100.7109 |  -0.4985 | 12.57 |       |       | I5   | 2023-02-05 | 
@@ -45,7 +45,7 @@ catalog.
     H125.5             |  1 16 07.0 | +64 52 29 | 125.5492 |  +2.1285 | 2.417 |       |       | I14  | 2023-02-05 | Small HII region.
     H130.9             | 12 11 52.4 | +62 04 07 | 130.8855 | +54.4446 | 57.83 | 9.062 |    71 |      | 2024-10-24 | Single high latitude filament
     H131.0             |  1 12 07.1 | +11 20 09 | 131.0395 | -51.2102 | 14.98 | 10.00 |    67 |      | 2024-10-24 | 
-    (EGGR 901)         |  1 12 23.1 | +11 23 36 | 131.1311 | -51.1446 |       |       |       |      |            | Whit dwarf. Possible but unlikely ionization source because lies near the boundary. Distance according to Gaia EDR3: about 0.25pc
+    (EGGR 901)         |  1 12 23.1 | +11 23 36 | 131.1311 | -51.1446 |       |       |       |      |            | Whit dwarf. Possible but unlikely ionization source because lies near the boundary. Distance according to Gaia EDR3: about 250 pc
     H133.9             |  6 23 24.1 | +80 04 10 | 133.8632 | +25.4944 | 1.578 |       |       |      | 2024-10-24 | Tiny and faint
     H134.2             |  5 17 31.8 | +78 39 07 | 134.1698 | +22.1668 | 145.7 |       |       |      | 2024-10-24 | Large faint fragments which probably belong together
     H139.2             |  2 51 07.7 | +55 56 59 | 139.1750 |  -3.1009 | 50.80 |       |       | J5   | 2023-12-04 | Probably overseen due to bright star eta Per.
@@ -87,5 +87,5 @@ catalog.
     H197.6             |  6 57 23.9 | +17 51 15 | 197.5605 |  +9.3132 | 56.09 |       |       | F2   | 2022-11-09 | 
     (HD 51354)         |  6 57 42.9 | +17 54 07 | 197.5499 |  +9.4018 |       |       |       |      |            | Possible ionization source of H197.6
     H213.6             |  6 04 17.2 |  -6 43 03 | 213.6151 | -13.5272 | 40.82 |       |       | A8   | 2022-10-12 | HII region which may be ionized by B1-star HD 41335.
-    (HD 41335)         |  6 04 13.5 |  -6 42 32 | 213.6003 | -13.5369 |       |       |       |      |            | Possible ionization source of H213.6. Distance according to Gaia EDR3: 500pc.
+    (HD 41335)         |  6 04 13.5 |  -6 42 32 | 213.6003 | -13.5369 |       |       |       |      |            | Possible ionization source of H213.6. Distance according to Gaia EDR3: 500 pc.
                                                                                
