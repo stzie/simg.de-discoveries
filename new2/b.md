@@ -24,7 +24,9 @@ catalog.
     B085   | 21 03 25.4 | +43 31 18 |  85.4448 |  -2.1457 |  1070 |       |       | GA1  | 2022-11-30 | Probably part of the Cygnus Superbubble
     B111+6 | 22 46 45.3 | +65 33 23 | 110.5014 |  +5.7396 | 412.1 |       |       | IA1  | 2023-02-05 | Probably part of the Cepheus bubble
     B111+3 | 23 04 30.7 | +63 14 46 | 111.2350 |  +2.8287 | 338.9 |       |       | IA2  | 2023-02-05 | Probably part of the Cepheus bubble
+    B115   | 23 44 09.3 | +60 35 00 | 114.7590 |  -1.2164 | 265.9 |       |       |      | 2024-10-25 | 
     B120   |  0 32 35.7 | +56 02 28 | 120.2843 |  -6.7337 | 333.2 |       |       | IA5  | 2023-02-05 | 
+    B121   |  0 34 18.9 | +61 53 06 | 120.9158 |  -0.9196 | 104.3 |       |       |      | 2024-10-25 |
     B147   |  4 48 20.2 | +62 30 00 | 146.7869 | +11.1975 | 378.9 |       |       | JA1  | 2023-12-04 |
     B163   |  5 04 03.1 | +43 42 21 | 163.1109 |  +1.4048 | 306.1 | 256.2 |   164 | C10  | 2022-10-19 | Possible distorted ring/bubble.
     B192   |  5 14 19.7 | +10 30 30 | 191.7873 | -16.0588 | 813.4 |       |       | AA1  | 2021-05-23 | Almost complete ring/bubble. North-western part (into direction of Taurus) is obscured by (i.e. lies behind) molecular clouds.
