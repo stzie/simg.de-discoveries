@@ -43,7 +43,9 @@ catalog.
     (Gaia DR2 22..91666688) || 20 02 28.3 | +55 33 19 |  89.3925 | +12.8560 |       |       |       |      |            | Gaia DR2 2233941236591666688. Possible ionization source of H089.4. Distance according to Gaia EDR3: 1500 to 3800 pc
     H100.7                  || 22 06 04.6 | +55 04 26 | 100.7109 |  -0.4985 | 12.57 |       |       | I5   | 2023-02-05 | 
     H105.3                  || 23 12 23.2 | +45 26 01 | 105.2968 | -14.0193 | 32.44 | 21.00 |   142 |      | 2024-10-31 | Faint HII region
-    H106.4                  || 23 07 03.0 | +50 12 45 | 106.3593 |  -9.2701 | 40.10 | 9.853 |   123 |      | 2024-10-25 | Faint jets centered at HD 218393
+    H106.4                  || 23 07 07.2 | +50 11 18 | 106.3600 |  -9.2966 | 40.26 | 3.608 |   125 |      | 2024-10-25 | Faint bipolar jets with a true length of about 19 ly ejected from interacting binary KX And. The jets appear to be surrounded by an elongated bubble.
+    (H106.4a)               || 23 07 38.8 | +50 08 54 | 106.4224 |  -9.3668 | 7.364 | 5.133 |     5 |      |            | Diffuse structure which is probably related to the jet
+    (KX And)                || 23 07 06.2 | +50 11 33 | 106.3592 |  -9.2919 |       |       |       |      |            | Interacting binary, source of the jets and probably of their ionization source. Spectral class: B3pe+K1III. Distance according to Gaia DR3: about 760 pc.
     H107.9                  || 22 55 44.7 | +57 35 45 | 107.9027 |  -1.8604 | 13.46 |       |       | I4   | 2023-02-05 | 
     (BD+56 2903)            || 22 55 45.8 | +57 36 07 | 107.9075 |  -1.8559 |       |       |       |      |            | Possible ionization source of H107.9. Distance according to Gaia EDR3: about 2500 pc.
     H110.3                  || 23 32 21.3 | +50 33 56 | 110.3157 | -10.3589 | 9.847 |       |       | I7   | 2023-02-05 | Faint HII region
