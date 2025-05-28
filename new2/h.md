@@ -1,16 +1,16 @@
-# Uncataloged objects that are bright in H-alpha
+# Uncataloged HII regions
 
-Objects in this list were detected in H-alpha images and can be considered as HII regions.
-This does not necessarily mean that other emission lines are faint.
+Objects in this list were first detected in H-alpha images. It turned out
+that many of these objects also emit in other emission lines. 
 
 Visit <http://www.simg.de/catalog/h.html> for a version of this table with links
 to images and <http://www.simg.de/catalog> for a general description of this
 catalog.
 
-    #                       |            |           |          |          | Major | Minor |       |      |
-    # Name                  |         RA |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Old  |  Publicat- | Comment
-    #                       |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | name |   ion date |
-    # ----------------------+------------+-----------+----------+----------+-------+-------+-------+------+------------+---------
+    #                         |            |           |          |          | Major | Minor |       |      |
+    # Name                    |       RA   |       DEC |     GLON |     GLAT | diam. | diam. | Angle | Old  |  Publicat- | Comment
+    #                         |   in h m s |  in ° ' " |     in ° |     in ° |  in ' |  in ' |  in ° | name |   ion date |
+    # ------------------------+------------+-----------+----------+----------+-------+-------+-------+------+------------+---------
     H010.5                    | 16 12 48.2 |  -1 44 44 |  10.4795 | +33.6314 | 13.90 |       |       |      | 2024-10-26 | 
     (HD 145774)               | 16 12 45.7 |  -1 43 19 |  10.4958 | +33.6534 |       |       |       |      | 2024-10-26 | Possible ionization source of H010.5. Distance according to Gaia EDR3: about 760 pc.
     H024.2                    | 18 59 43.8 | -10 49 22 |  24.1913 |  -6.7330 | 18.33 |       |       | D7   | 2022-10-22 | 

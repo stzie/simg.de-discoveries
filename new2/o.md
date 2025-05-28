@@ -1,7 +1,7 @@
-# Uncataloged objects that are bright in OIII
+# Uncataloged OIII regions
 
-Objects in this list were detected in OIII (500.7 nm) images and are Planetary
-nebulae candidates. These nebulae may also be bright in other emission lines.
+Objects in this list were detected in [OIII] light. Usually they also can be
+seen in other wavelengths.
 
 Visit <http://www.simg.de/catalog/o.html> for a version of this table with links
 to images and <http://www.simg.de/catalog> for a general description of this
