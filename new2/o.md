@@ -50,8 +50,6 @@ catalog.
     O110.1                   | 23 56 19.0 | +34 07 56 | 110.1050 | -27.3628 | 30.18 | 10.91 |   103 |              | 2025-05-22 | Faint OIII arc.
     O111.7                   | 23 23 00.4 | +58 56 14 | 111.7277 |  -1.9973 | 11.05 |       |       |              | 2025-05-22 | OIII region also with faint H-alpha emissions.
     O111.9                   | 23 40 18.9 | +51 53 56 | 111.9194 |  -9.4455 | 21.56 |       |       | H112.0       | 2023-02-05 | Was H112.0. Much larger in OIII.
-    O117.3                   |  0 26 24.4 | +36 24 56 | 117.3225 | -26.1834 | 172.5 |       |       |              | 2025-05-22 | Faint OIII filaments. The southern ones also emit some H-alpha. Could be identified with the SNR candidate SNR G116.6-26.1 (positions differ)
-    (SNR G116.6-26.1)        |  0 23 09.6 | +36 25 12 | 116.6002 | -26.1038 |       |       |       |              |            |
     O119.8                   |  0 41 38.9 | +20 10 11 | 119.8083 | -42.6427 | 40.34 |       |       |              | 2025-05-22 | OIII ring probably ionized by the White Dwarf PG 0038+199: PN candidate.
     (PG 0038+199)            |  0 41 35.3 | +20 09 17 | 119.7882 | -42.6569 |       |       |       |              |            | Likely the ionization source of O119.8. Distance according to Gaia DR3: about 400pc.
     O138.5                   |  3 08 06.4 | +61 25 11 | 138.5355 |  +2.7595 | 44.62 |       |       |              | 2025-05-22 | Faint OIII region hidden within or behind molecular clouds.
@@ -83,5 +81,3 @@ catalog.
     (Gaia DR3 31418..379136) |  7 29 22.2 |  +6 45 21 | 211.1722 | +11.4935 |       |       |       |              |            | Gaia DR3 3141806239596379136. Possible ionization source of O211.2. Distance according to Gaia DR3: about 290 pc
     O220.2                   |  6 02 35.5 | -13 59 38 | 220.2401 | -17.0334 | 73.10 |       |       |              | 2025-05-22 | Very faint but large structure. Possibly ionized by white dwarf UCAC4 381-011163: PN candidate.
     (UCAC4 381-011163)       |  6 02 45.0 | -13 51 04 | 220.1209 | -16.9392 |       |       |       |              |            | Possible ionization source of O220.2. Distance according to Gaia DR3: about 390 pc.
-    O248.0                   |  9 28 31.4 | -16 01 38 | 248.0422 | +24.5548 | 137.6 |       |       |              | 2025-05-22 | Faint OIII, SII and HII filaments on the boundary to the surveyed region. May be identified with SNR G249.5+24.5, which is outside the suspected boundaries.
-    (SNR G249.5+24.5)        |  9 32 00.0 | -17 06 00 | 249.5324 | +24.4754 |       |       |       |              |            |
